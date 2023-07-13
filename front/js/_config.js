@@ -1,4 +1,4 @@
-const backURL = 'http://localhost:4000'
+const backURL = 'https://tablet-shop.onrender.com'
 
 const getUser = () => {
     return JSON.parse(localStorage.getItem('user'));
